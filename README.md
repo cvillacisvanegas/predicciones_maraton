@@ -12,10 +12,15 @@ El modelo Ridge fue seleccionado por su buen rendimiento.
 Persistencia del Modelo:
 
 Se guardó el modelo Ridge con pickle para futuras predicciones.
+
 Resultados:
+
 Modelo Ridge:
+
 R-cuadrado en entrenamiento: 0.9527, en prueba: 0.9375.
+
 Archivos en el Repositorio:
+
 Cuaderno Jupyter:
 
 notebooks/Modelo.ipynb
